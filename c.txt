@@ -1,3 +1,6 @@
-dong 1
+﻿dong 1
 dong 2
 duyen
+dong 6
+dong 7
+vo thi hue duyen
